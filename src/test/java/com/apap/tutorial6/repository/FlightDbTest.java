@@ -5,8 +5,6 @@ import static org.junit.Assert.assertThat;
 import java.sql.Date;
 import java.util.Optional;
 
-import javax.persistence.EntityManager;
-
 import com.apap.tutorial6.model.FlightModel;
 import com.apap.tutorial6.model.PilotModel;
 

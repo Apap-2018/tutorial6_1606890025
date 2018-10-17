@@ -1,6 +1,5 @@
 package com.apap.tutorial6.service;
 
-
 import static org.junit.Assert.assertThat;
 
 import java.sql.Date;
